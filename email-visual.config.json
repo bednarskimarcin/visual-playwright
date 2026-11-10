@@ -1,0 +1,11 @@
+{
+  "screenshotsDir": "./screenshots",
+  "expectedSubdir": "expected",
+  "currentSubdir": "current",
+  "extensions": [".png", ".jpg", ".jpeg"],
+  "comparison": {
+    "threshold": 0.1,
+    "maxDiffPixels": 0,
+    "maxDiffPixelRatio": 0.001
+  }
+}
